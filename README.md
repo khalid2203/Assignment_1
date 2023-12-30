@@ -1,4 +1,4 @@
-# Assignments
+# Assignment 1
 Question 1.
 Steps:
 1. Initialize a variable named "result" to store the length of the longest substring found.
